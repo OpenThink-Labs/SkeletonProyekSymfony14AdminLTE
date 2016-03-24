@@ -1,0 +1,4 @@
+signinSuccess:
+  layout: login_layout
+  stylesheets: [login.css]
+  javascripts: [login.js]
